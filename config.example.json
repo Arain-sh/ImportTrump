@@ -1,0 +1,5 @@
+{
+  "apify_token": "your_apify_api_token",
+  "ifttt_webhook_url": "your_ifttt_webhook_url",
+  "poll_interval": 300
+}
